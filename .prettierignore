@@ -1,0 +1,7 @@
+/.vscode
+/nmde_modules
+./dist
+
+*.env
+.env
+.env*
